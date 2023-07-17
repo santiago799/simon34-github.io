@@ -1,0 +1,20 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 90%;
+    height: 100vh;
+}
+
+img {
+    width: 550px;
+    height: 600px;
+    padding: 150px;
+}
+
+.abr-genealogique {
+    width: 550px;
+    height: 600px;
+    background-color: rgb(71, 101, 46);
+    border-radius: 50%;
+}
